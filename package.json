@@ -1,0 +1,12 @@
+{
+  "name": "live",
+  "version": "1.0.0",
+  "description": "live",
+  "main": "index.js",
+  "repository": "https://github.com/qianyinggenian/live.git",
+  "author": "qianyinggenian <1368504885@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
